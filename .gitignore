@@ -1,3 +1,4 @@
 Data/
 !Data/*.dvc
 __pycache__/
+.ipynb_checkpoints/
